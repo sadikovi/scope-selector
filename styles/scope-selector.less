@@ -5,9 +5,15 @@
 @import "ui-variables";
 
 .scope-selector {
+  background: @base-background-color;
+  color: @text-color;
+  min-width: 300px;
+  min-height: 100px;
+  border-radius: 3px;
+  border: 1px solid @base-border-color;
+  padding: 10px;
   display: block;
-  z-index: 10000;
+  white-space: pre;
   position: absolute;
-  background: white;
-  border: 1px black;
+  z-index: 2;
 }
