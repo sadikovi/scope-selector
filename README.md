@@ -1,5 +1,8 @@
-# scope-selector package
+# scope-selector
+Grammar scope selector for Atom.
 
-A short description of your package.
+Useful in grammar package development.
+You can toggle scope-selector with Ctrl-Alt-O or in the Atom menu (Ctrl-Shift-P).
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Screenshot:
+![./image.png](./image.png)
